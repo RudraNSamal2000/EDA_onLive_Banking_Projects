@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm, RudraNarayana Samal, currently working of Exploratory Data analysis and PD Model Development using Python, Sql and Preparing visual insights using Power BI.<br>I would like to colaborate with others to work on any types of project for  free. 
+Hi, I'm, RudraNarayana Samal,this is my Exploratory Data analysis  using Python. <br> I would like to colaborate with others to work on any types of project for  free. 
 
 
 ## 🌐 Socials:
