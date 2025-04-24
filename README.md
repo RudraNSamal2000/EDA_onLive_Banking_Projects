@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About My EDA Project:
 Hi, I'm, RudraNarayana Samal,this is my Exploratory Data analysis  using Python. <br> I would like to colaborate with others to work on any types of project for  free. 
 
 
