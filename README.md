@@ -1,6 +1,7 @@
 # 💫 About My EDA Project:
-Hi, I'm, RudraNarayana Samal,this is my Exploratory Data analysis  using Python.
-<a href = "https://github.com/RudraNSamal2000/EDA_onLive_Banking_Projects/blob/main/EDA_onLive_Banking%20_Data_Sample_project.ipynb" a> Click Here For ".ipynb" file </a>
+Hi, I'm, RudraNarayana Samal,this is my Exploratory Data analysis  using Python. </a>
+<a href = "https://github.com/RudraNSamal2000/EDA_onLive_Banking_Projects/blob/main/EDA_onLive_Banking%20_Data_Sample_project.ipynb" a> Click Here For ".ipynb" file </a></a>
+
 An EDA (Exploratory Data Analysis) project is all about understanding the dataset—finding patterns, spotting anomalies, testing assumptions, and checking relationships between variables—before you dive into building models or making predictions.
  
 #### 1. I use the Excel dataset. (usually CSV, Excel, SQL, etc.)
